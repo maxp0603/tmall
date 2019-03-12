@@ -1,0 +1,8 @@
+INDEX VERSION 1.127+D:\javaProject\Maven\taotao\tmall\.metadata\.plugins\org.eclipse.jdt.core
+1311617514.index
+3609442454.index
+3391529300.index
+1090495868.index
+3607738318.index
+2447834176.index
+986312471.index
