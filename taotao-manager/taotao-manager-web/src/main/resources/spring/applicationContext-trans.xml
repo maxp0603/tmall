@@ -33,11 +33,4 @@
 		<aop:advisor advice-ref="txAdvice"
 			pointcut="execution(* com.taotao.service.*.*(..))" />
 	</aop:config>
-
-
-
-
-
-
-
 </beans>

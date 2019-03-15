@@ -1,0 +1,20 @@
+package com.taotao.controller;
+
+import org.springframework.stereotype.Controller;
+
+/**
+ * 页面跳转controller
+ * @author Administrator
+ *
+ */
+@Controller
+public class PageController {
+	/**
+	 * 打开商品首页
+	 * @return
+	 */
+	public String showIndex(){
+		return "index";
+	}
+
+}

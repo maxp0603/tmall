@@ -1,0 +1,16 @@
+package com.taotao.controller;
+/**
+ * 页面跳转controller
+ * @author Administrator
+ *
+ */
+public class PageController {
+	/**
+	 * 打开商品首页
+	 * @return
+	 */
+	public String showIndex(){
+		return "index";
+	}
+
+}
